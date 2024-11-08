@@ -2,15 +2,9 @@
 
 **`Constant learner`**
 
-I'm Rachit Agrawal, currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.
+> I'm Rachit Agrawal, currently studying at Acropolis Institute of Technology and Research, passionately exploring the vast world of technology.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rancho.rachit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rancho.rachit" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/my-profile" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="me" height="30" width="40" />
-</a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,4 +30,3 @@ I'm Rachit Agrawal, currently studying at Acropolis Institute of Technology and 
     <img src="https://img.icons8.com/?size=100&id=21831&format=png&color=000000" alt="markdown" width="40" height="40"/>
   </a>
 </p>
-Thanks :v:
